@@ -1,0 +1,6 @@
+{
+  "name": "S.N. Fitness",
+  "description": "S.N. Fitness - Premium AC Gym in Bethuadahari",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
