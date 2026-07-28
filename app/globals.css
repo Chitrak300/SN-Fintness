@@ -112,7 +112,7 @@ nav.wrap { display: flex; align-items: center; justify-content: space-between; h
 
 /* Hero visual: gym logo */
 .hero-visual { position: relative; height: 420px; display: flex; align-items: center; justify-content: center; }
-.hero-logo { max-width: 100%; max-height: 100%; object-fit: contain; }
+.hero-logo { max-width: 100%; max-height: 100%; object-fit: contain; mix-blend-mode: screen; filter: contrast(1.1) brightness(1.05); }
 
 @media(max-width: 900px) {
   .hero .wrap { grid-template-columns: 1fr; }
